@@ -1,0 +1,26 @@
+{
+  "name": "sitorflip",
+  "version": "1.0.0",
+  "description": "One stop spot for resellers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigorouslightning/SitOrFlip.git"
+  },
+  "author": "Kyle Plunkett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigorouslightning/SitOrFlip/issues"
+  },
+  "homepage": "https://github.com/vigorouslightning/SitOrFlip#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.0.6"
+  }
+}
